@@ -1,1 +1,4 @@
 *.o
+*.png
+*.png.*
+*.hipnc
